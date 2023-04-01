@@ -1,0 +1,48 @@
+
+.form{
+    width: 50%;
+    height: 400px;
+    background-color: bisque;
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px 0;
+
+}
+span{
+    color: red;
+}
+.form-field{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px 10px ;
+}
+.form-field section{
+    margin-right: 6rem;
+}
+.form-field label{
+    padding-left: 70px;
+}
+#field{
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+
+.button{
+    text-align: center;
+    margin-left: 70px ;
+}
+
+ .btn{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(57, 57, 230);
+    color: aliceblue;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #000;
+    color: aliceblue;
+}
+
